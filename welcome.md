@@ -1,6 +1,6 @@
 # Data Drift Detection
 
-> Change is the only constant in life
+**Change is the only constant in life** - Heraclitus
 
 Let's monitor the data drift! We will use <a href="https://github.com/evidentlyai" target="_blank">Evidently</a> package for this - you can monitor and detect data drifts in 3 lines of Python code! 🐍
 
