@@ -1,2 +1,3 @@
-evidently
+numpy
 mljar-mercury
+evidently
