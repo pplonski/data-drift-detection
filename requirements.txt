@@ -2,4 +2,4 @@ numpy
 scikit-learn
 pandas
 mljar-mercury
-
+evidently
