@@ -15,7 +15,7 @@ The Evidently can build performance dashboards for ML models, below dashboard fo
 
 - Web Application [data-drift-detection.herokuapp.com](https://data-drift-detection.herokuapp.com/)
 - Code repository at GitHub [pplonski/data-drift-detection](https://github.com/pplonski/data-drift-detection)
-- Article on [how to detect data drift in Python](https://mljar.com/blog/data-drift-detection-python)
+- Article about [data drift detection in Python](https://mljar.com/blog/data-drift-detection-python)
 - Mercury framework at GitHub [mljar/mercury](https://github.com/mljar/mercury) 
 
 ## Dashboards 📊
